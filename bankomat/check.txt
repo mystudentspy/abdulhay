@@ -1,0 +1,4 @@
+sizning balansingiz: 0 so'm
+pul muvaffaqqiyatli qoshildi,sizning balansingiz1000 som
+pul muvaffaqiyatli yechildi, sizning balansingiz True so'm
+Tizimdan chiqdingiz hayr!

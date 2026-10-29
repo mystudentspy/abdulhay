@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bfc7271-89ff-43ea-a3ee-d930851b969c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTTP Request" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1745927750400404" />
+      <entry key="MS500" value="2.183905942184955" />
+      <entry key="S2" value="2.972808799212946" />
+      <entry key="S5" value="4.574206363875998" />
+      <entry key="S10" value="7.390310761104064" />
+      <entry key="S30" value="17.83178532176932" />
+      <entry key="S60" value="28.06080220522454" />
+      <entry key="M2" value="43.01956180931397" />
+      <entry key="M5" value="80.2397764123416" />
+      <entry key="M10" value="123.70579266987609" />
+      <entry key="M15" value="151.46178228488313" />
+      <entry key="M30" value="202.69694800981313" />
+      <entry key="H1" value="261.9009354063728" />
+      <entry key="H2" value="319.01371918821854" />
+      <entry key="H4" value="362.1558281448243" />
+      <entry key="D1" value="628.0505446660823" />
+      <entry key="W1" value="2693.1719231633874" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.1061807197380322E-117" />
+      <entry key="MS500" value="4.062236620296265E-24" />
+      <entry key="S2" value="1.4196827460923556E-6" />
+      <entry key="S5" value="0.004580116466452152" />
+      <entry key="S10" value="0.0676765577319957" />
+      <entry key="S30" value="0.407517334466783" />
+      <entry key="S60" value="0.6383708439980498" />
+      <entry key="M2" value="0.7989811286870615" />
+      <entry key="M5" value="0.9141439907120332" />
+      <entry key="M10" value="0.9561087755648066" />
+      <entry key="M15" value="0.9705208492346028" />
+      <entry key="M30" value="0.9851501658298614" />
+      <entry key="H1" value="0.9925473116624783" />
+      <entry key="H2" value="0.9962859150159723" />
+      <entry key="H4" value="1.0189161858493685" />
+      <entry key="D1" value="13.43692542841883" />
+      <entry key="W1" value="97.65746106992744" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0740941499933776" />
+      <entry key="MS500" value="2.1375420470149824" />
+      <entry key="S2" value="2.9494650347243265" />
+      <entry key="S5" value="4.548859658868955" />
+      <entry key="S10" value="7.421711260429612" />
+      <entry key="S30" value="18.199977122564462" />
+      <entry key="S60" value="28.66448074035348" />
+      <entry key="M2" value="43.78466833280273" />
+      <entry key="M5" value="81.11564947625469" />
+      <entry key="M10" value="124.62239377895058" />
+      <entry key="M15" value="152.39412006596942" />
+      <entry key="M30" value="203.64740123331754" />
+      <entry key="H1" value="262.8651060672069" />
+      <entry key="H2" value="319.9903342745758" />
+      <entry key="H4" value="363.1628429632996" />
+      <entry key="D1" value="641.4826949927575" />
+      <entry key="W1" value="2790.824650005251" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GTwuCVUhN1HjeIMu51pzt0m0Zk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.balance ko'rish.executor": "Run",
+    "Python.bankamat.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.dars.executor": "Run",
+    "Python.date.executor": "Run",
+    "Python.ishla.executor": "Run",
+    "Python.isla.executor": "Run",
+    "Python.kichik.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.malumotlar.executor": "Run",
+    "Python.pin_qo'yish (1).executor": "Run",
+    "Python.pin_qo'yish.executor": "Run",
+    "Python.pin_qoyish.executor": "Run",
+    "Python.pin_tekshirish.executor": "Run",
+    "Python.pul_qo'shish.executor": "Run",
+    "Python.pul_yechish.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/abdulhay",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\abdulhay\hujjatlar" />
+      <recent name="D:\abdulhay\bankomat" />
+      <recent name="D:\abdulhay\ish" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.class">
+    <configuration name="bankamat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="abdulhay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bankomat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bankomat/bankamat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="abdulhay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="abdulhay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hujjatlar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hujjatlar/date.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="abdulhay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bankomat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bankomat/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="abdulhay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="D:\abdulhay\ish\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pin_qoyish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="abdulhay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bankomat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bankomat/pin_qoyish.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.class" />
+        <item itemvalue="Python.date" />
+        <item itemvalue="Python.bankamat" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.pin_qoyish" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfc7271-89ff-43ea-a3ee-d930851b969c" name="Changes" comment="" />
+      <created>1784009088761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784009088761</updated>
+      <workItem from="1784009090264" duration="2249000" />
+      <workItem from="1784011532569" duration="9000" />
+      <workItem from="1784035044504" duration="1592000" />
+      <workItem from="1784043605850" duration="7000" />
+      <workItem from="1784046525038" duration="9000" />
+      <workItem from="1784046614223" duration="154000" />
+      <workItem from="1784049518641" duration="1681000" />
+      <workItem from="1784086136483" duration="2127000" />
+      <workItem from="1784090118711" duration="110000" />
+      <workItem from="1784091226579" duration="7211000" />
+      <workItem from="1784174306853" duration="9121000" />
+      <workItem from="1784216245210" duration="27732000" />
+      <workItem from="1784400120184" duration="610000" />
+      <workItem from="1784436475980" duration="4976000" />
+      <workItem from="1784607874076" duration="4697000" />
+      <workItem from="1784779726542" duration="18218000" />
+      <workItem from="1785218660409" duration="6566000" />
+      <workItem from="1785317964604" duration="1037000" />
+      <workItem from="1785340247546" duration="16413000" />
+      <workItem from="1785568306066" duration="6540000" />
+      <workItem from="1785828663953" duration="4394000" />
+      <workItem from="1786161685567" duration="1183000" />
+      <workItem from="1786174547537" duration="327000" />
+      <workItem from="1786177871014" duration="606000" />
+      <workItem from="1786433572619" duration="6042000" />
+      <workItem from="1786443493637" duration="1805000" />
+      <workItem from="1786605403458" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/abdulhay$main.coverage" NAME="main Coverage Results" MODIFIED="1786445272677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
